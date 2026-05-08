@@ -1,0 +1,13 @@
+fastapi → Backend framework
+uvicorn → Runs FastAPI server
+numpy → Numerical operations
+openai-whisper → Speech-to-text
+torch → PyTorch deep learning framework
+torchvision → Image processing for CNN models
+torchaudio → Audio processing
+sentence-transformers → Semantic similarity
+transformers → HuggingFace NLP models
+pydantic → Data validation
+python-multipart → File uploads
+scikit-learn → ML utilities
+opencv-python → Facial/video processing
